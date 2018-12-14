@@ -1,0 +1,7 @@
+[package]
+name = "reverse_alphabet"
+version = "0.1.0"
+authors = ["lukehedger"]
+edition = "2018"
+
+[dependencies]
